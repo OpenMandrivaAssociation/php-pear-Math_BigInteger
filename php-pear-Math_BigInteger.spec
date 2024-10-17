@@ -10,7 +10,7 @@ Version:	1.0.0
 Release:	%mkrel 3
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Math_BigInteger/
+URL:		https://pear.php.net/package/Math_BigInteger/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
